@@ -19,7 +19,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/recipe-page-using-css-5FLu6qJBXb)
 - Live Site URL: [Live Site](https://asimsaeed353.github.io/recipe-page-main/)
 
 ## My process
